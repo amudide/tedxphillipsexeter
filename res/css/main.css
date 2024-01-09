@@ -3176,11 +3176,11 @@ section.pull-up {
 
 @media (max-width:1199px) {
   .md-text-extra-small {
-    font-size: 10px!important;
-    line-height: 15px!important
+    font-size: 40px!important;
+    line-height: 40px!important
   }
   .md-text-small {
-    font-size: 11px!important;
+    font-size: 20px!important;
     line-height: 20px!important
   }
   .md-text-medium {
@@ -4808,4 +4808,8 @@ section.pull-up {
 .hover-box:hover {
   background-color: #bfbfbf;
   color: white;
+}
+.instagram {
+  color: #FFFFFF;
+  resize: 30px;
 }
