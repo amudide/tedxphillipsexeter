@@ -2463,7 +2463,7 @@ section.pull-up {
 }
 
 .bg-hover-black:hover {
-  background-color: #000!important
+  background-color: #bfbfbf!important
 }
 
 .bg-hover-gray:hover {
@@ -4806,6 +4806,6 @@ section.pull-up {
 
 
 .hover-box:hover {
-  background-color: black;
+  background-color: #bfbfbf;
   color: white;
 }
