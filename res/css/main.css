@@ -371,7 +371,9 @@ h6 {
 .line-height-none {
   line-height: 0!important
 }
-
+.close-spacing {
+  line-height: 3!important
+}
 .line-height-unset {
   line-height: unset!important
 }
