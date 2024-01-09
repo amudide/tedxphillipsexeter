@@ -297,7 +297,7 @@ h6 {
 
 .btn,
 .font-family-alt {
-  font-family: Catamaran, sans-serif!important
+  font-family: Catamaran, sans-serif
 }
 
 .font-weight-100 {
@@ -2254,7 +2254,7 @@ section.pull-up {
 }
 
 .text-gray-dark-2 {
-  color: #272727!important
+  color: #272727
 }
 
 .text-gray-light {
@@ -4802,4 +4802,10 @@ section.pull-up {
   section.pull-up {
     padding-top: 80px;
   }
+}
+
+
+.hover-box:hover {
+  background-color: black;
+  color: white;
 }
