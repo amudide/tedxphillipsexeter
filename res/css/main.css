@@ -4813,3 +4813,7 @@ section.pull-up {
   color: #FFFFFF;
   resize: 30px;
 }
+.sub-bar-shifting {
+  padding: 15px 10px !important;
+  max-width: 90%;
+}
