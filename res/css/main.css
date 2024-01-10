@@ -2000,7 +2000,7 @@ h6 {
 
 section {
   padding: 0;
-  padding-top: 120px;
+  padding-top: 10px;
   padding-bottom: 60px;
   position: relative
 }
@@ -3196,7 +3196,7 @@ section.pull-up {
     line-height: 26px!important
   }
   .md-title-small {
-    font-size: 20px!important;
+    font-size: 40px!important;
     line-height: 30px!important
   }
   .md-title-medium {
@@ -3269,7 +3269,7 @@ section.pull-up {
     line-height: 26px!important
   }
   .sm-title-small {
-    font-size: 20px!important;
+    font-size: 40px!important;
     line-height: 30px!important
   }
   .sm-title-medium {
@@ -3345,7 +3345,7 @@ section.pull-up {
     line-height: 26px!important
   }
   .xs-title-small {
-    font-size: 20px!important;
+    font-size: 40px!important;
     line-height: 30px!important
   }
   .xs-title-medium {
@@ -4786,7 +4786,7 @@ section.pull-up {
 
 @media (min-width:768px) {
   section {
-    padding-top: 140px;
+    padding-top: 10px;
     padding-bottom: 70px;
   }
   section.pull-up {
@@ -4796,7 +4796,7 @@ section.pull-up {
 
 @media (min-width:992px) {
   section {
-    padding-top: 160px;
+    padding-top: 10px;
     padding-bottom: 80px;
   }
   section.pull-up {
